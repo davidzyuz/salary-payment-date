@@ -1,0 +1,11 @@
+{
+    "name": "dev/salary-payment-date",
+    "type": "project",
+    "authors": [
+        {
+            "name": "David",
+            "email": "zyuzdavid@gmail.com"
+        }
+    ],
+    "require": {}
+}
